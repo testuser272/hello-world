@@ -1,6 +1,7 @@
 <?php
 error_reporting(E_ALL);
 
+
 ?>
 
 <!DOCTYPE html>
@@ -14,10 +15,7 @@ error_reporting(E_ALL);
 <body lang="en-US">
 
 
-
 <?php
-
-
 
 ?>
 
